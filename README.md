@@ -1,7 +1,7 @@
-## BullPhish ID
+# BullPhish ID
 Bullphish ID is a security awareness training and phishing resistance training will educate and empower your employees to avoid threats at work and at home.
 
-# BullPhishPrepareExchangeOnline
+## BullPhish Prepare ExchangeOnline POwershell Script
 This Powershell Script is preparing your Exchange Online environment to bypass the antispam filters of Exchange Online.
 
 ## IP Whitelist
